@@ -1,0 +1,1 @@
+This is just somewhere I was developing code to process an avalanche accident file. The plan was to be able to use the vector of assembled accident info as a reference. I wanted to see if I could develop some pattern of weather events and forecast danger prior to every major accident.
