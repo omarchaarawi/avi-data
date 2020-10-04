@@ -1,0 +1,10 @@
+zone 0 took 24.77 minutes
+zone 1 took 27.28 minutes
+zone 2 took 24.82 minutes
+zone 3 took 26.38 minutes
+zone 4 took 24.85 minutes
+zone 5 took 32.62 minutes
+zone 6 took 21.70 minutes
+zone 7 took 23.47 minutes
+zone 8 took 28.63 minutes
+zone 9 took 15.70 minutes
